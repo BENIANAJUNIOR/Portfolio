@@ -19,9 +19,10 @@ technical abilities, and continuous learning while ensuring an engaging and seam
 - HTML: to structure the content of the web application.
 - CSS: to describe the presentation of teh web application.
 - Pycharm : to develop my web application.
+- Figma: to design the web page prototyping and design systems.
 - Javascript : to add dynamic and interactive elements to the web pages.
 
-## Steps
+## Design Systems
 
 ![Main Page](https://github.com/user-attachments/assets/4c3846a6-de09-4857-ae84-0907bc462553)
 
